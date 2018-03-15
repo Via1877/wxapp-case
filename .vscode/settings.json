@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.bin": "bat",
+        "*.wxml": "html",
+        "*.wxss": "css"
+    }
+}

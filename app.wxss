@@ -1,0 +1,7 @@
+.container{
+    box-sizing:border-box;
+    height:100vh;
+    padding:8px;
+    background: #e9e8e8;
+    color:rgba(0,0,0,0.85);
+}

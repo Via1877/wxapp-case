@@ -1,0 +1,22 @@
+{
+    "pages":[
+        "pages/index/index",
+        "pages/event/event"
+    ],
+    "window":{
+        "navigationBarBackgroundColor": "#fff"
+
+    },
+    "tabBar":{
+        "list":[
+            {
+                "text":"首页",
+                "pagePath":"pages/index/index"
+            },
+            {
+                "text":"活动",
+                "pagePath":"pages/event/event"
+            }
+        ]
+    }
+}
